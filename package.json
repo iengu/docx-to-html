@@ -1,0 +1,19 @@
+{
+  "name": "wordtohtml",
+  "version": "1.0.0",
+  "description": "word to html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mammoth": "^1.4.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
