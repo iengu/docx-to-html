@@ -1,8 +1,8 @@
-# word to html
+# word-to-html
 
-基于 node + mammoth 的文档转HTML工具，自动提取文档内的文字和图片，旨在提高工作效率使用。 ( 仅支持docx格式的文档。 )<br/>
-支持提取颜色和居中对齐属性。
+基于<code>node+mammoth</code>的文档转HTML单页模板工具，自定义HTML结构和CSS样式，提取文字、图片、颜色、居中对齐属性，提高工作效率。（仅支持DOCX格式的文档）<br/>
 
+### 安装使用
 ```
 git clone https://gitee.com/iengu/word-to-html.git
 cd wordToHtml
