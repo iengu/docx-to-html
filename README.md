@@ -7,7 +7,7 @@
 git clone https://gitee.com/iengu/word-to-html.git
 cd wordToHtml
 
-docx/document.docx +
++ docx/document.docx
 npm run start
 ```
 
