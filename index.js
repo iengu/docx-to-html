@@ -61,7 +61,7 @@ mammoth.convertToHtml({path: docxPath}, options)
     <head>
         <meta charset=UTF-8/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>新建站点</title>
+        <title>Title</title>
         <link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
         <script src="assets/js/media.js"></script>
     </head>
@@ -71,19 +71,6 @@ mammoth.convertToHtml({path: docxPath}, options)
                 ${tmp}
             </div>
         </div>
-        <footer class="footer-float">
-            <div class="am-container">
-                <table style="width: 100%; text-align: center;">
-                    <tbody>
-                        <tr>
-                            <td style="padding-left:7px;">微信号：<font style="background:#ff0000;color:#fff; font-weight:bold;font-size: 0.9rem;">
-                            <span><a style="color:#ffffff;" class="show_wx">undefined</a></span></font><br>长按复制 添加微信号！
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </footer>
     </body>
 </html>
         `.trim();
